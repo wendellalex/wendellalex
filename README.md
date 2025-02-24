@@ -1,20 +1,24 @@
 🧑‍💻 **Wendell Fidelis | Desenvolvedor Full Stack**
 
-Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Wendell Fidelis, um desenvolvedor apaixonado por tecnologia, programação e inovação. Meu objetivo é criar soluções criativas e funcionais que realmente façam a diferença. Aqui, você encontrará projetos que refletem minha jornada no desenvolvimento full stack e meu compromisso constante com aprendizado e evolução. 🚀
+🚀 E aí! Bem-vindo(a) ao meu cantinho no GitHub!
+
+Sou Wendell Fidelis, um desenvolvedor movido por curiosidade, inovação e desafios. Gosto de transformar ideias em soluções inteligentes e práticas que realmente fazem a diferença.
+
+Por aqui, você vai encontrar projetos que contam um pouco da minha jornada no desenvolvimento full stack e mostram minha paixão por aprender, evoluir e criar coisas novas. 💡
 
 ---
 
-### 🚀 **Sobre Mim:**
+### 🚀 **Quem Sou Eu?**
 
-- 💡 **Atualmente trabalhando em**: Desenvolvimento web com foco em HTML, CSS, React e JavaScript.  
-- 🎯 **Objetivo**: Aperfeiçoar minhas habilidades em desenvolvimento full stack e conquistar uma vaga em uma empresa de tecnologia.  
-- 🌱 **Sempre aprendendo sobre**: Boas práticas de programação, design responsivo e novas tecnologias em desenvolvimento web.  
-- 🤝 **Aberto a**: Parcerias em projetos, freelancing e colaborações para ganhar mais experiência no mercado.  
-- 📫 **Contato**: [Email](mailto:wendellalexfidelis01@hotmail.com)
+- 💻 **Atualmente mergulhado em**: Desenvolvimento web, dominando **HTML, CSS, React e JavaScript**.  
+- 🎯 **Na mira**: Evoluir como **desenvolvedor full stack** e garantir meu espaço em uma empresa de tecnologia.  
+- 📚 **Sempre explorando**: Melhores práticas de código, **design responsivo** e as últimas novidades do mundo dev.  
+- 🤝 **Aberto para**: Colaborações, freelas e parcerias que tragam novos desafios e experiências.  
+- 📫 **Fale comigo**: [Email](mailto:wendellalexfidelis01@hotmail.com)  
 
 ---
 
-### 🌐 **Onde Me Encontrar:**
+### 🌐 **Vamos Conectar?**
 
 <p align="center">
   <a href="https://discord.com/channels/@me" target="_blank">
@@ -30,7 +34,7 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Wendell Fidelis, um de
 
 ---
 
-### 📈 **Minhas Estatísticas no GitHub:**
+### 📊 **Minhas Estatísticas por Aqui:**
 
 <p align="center">
   <img 
@@ -47,7 +51,7 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Wendell Fidelis, um de
 
 ---
 
-### 🛠️ **Tecnologias e Ferramentas:**
+### ⚙️ **Habilidades e Ferramentas:**
 
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="65" height="65"/></a>
@@ -55,7 +59,7 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Wendell Fidelis, um de
   <a href="#"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="65" height="65"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="65" height="65"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65"/></a>
 </p>
 
