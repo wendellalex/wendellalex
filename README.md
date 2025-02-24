@@ -18,13 +18,13 @@ Olá! 👋 Seja bem-vindo(a) ao meu perfil do GitHub! Sou Wendell Fidelis, um de
 
 <p align="center">
   <a href="https://discord.com/users/seu_usuário" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="https://discord.com/channels/@me"/>
   </a>
   <a href="https://www.instagram.com/seu_perfil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/wendelleandro_0/"/>
   </a>
   <a href="https://www.linkedin.com/in/wendell-fidelis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/wendell-leandro-39769b33b/"/>
   </a>
 </p>
 
